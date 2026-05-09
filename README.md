@@ -4,8 +4,8 @@
 
 
 **Team Members:**
-- Aya Abdullah — ID: 1220782
-- Lana Daramna — ID: 1220588
+- Aya Abdullah
+- Lana Daramna 
 
 **Instructor:** Samah Alaydi | **Section:** 2
 **Submission Date:** June 24, 2025
